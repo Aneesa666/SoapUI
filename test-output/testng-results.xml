@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="9846" started-at="2020-06-07T07:04:10Z" finished-at="2020-06-07T07:04:20Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="9846" started-at="2020-06-07T07:04:10Z" finished-at="2020-06-07T07:04:20Z">
+      <class name="Rest.restRunner2">
+        <test-method status="PASS" signature="testRun1()[pri:0, instance:Rest.restRunner2@1416310]" name="testRun1" duration-ms="416" started-at="2020-06-07T12:34:19Z" finished-at="2020-06-07T12:34:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRun1 -->
+      </class> <!-- Rest.restRunner2 -->
+      <class name="Soap.testRunner">
+        <test-method status="PASS" signature="testRun1()[pri:0, instance:Soap.testRunner@57643e]" name="testRun1" duration-ms="8261" started-at="2020-06-07T12:34:10Z" finished-at="2020-06-07T12:34:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRun1 -->
+      </class> <!-- Soap.testRunner -->
+      <class name="Soap.testRunner2">
+        <test-method status="PASS" signature="testRun1()[pri:0, instance:Soap.testRunner2@d282e0]" name="testRun1" duration-ms="627" started-at="2020-06-07T12:34:18Z" finished-at="2020-06-07T12:34:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRun1 -->
+      </class> <!-- Soap.testRunner2 -->
+      <class name="Rest.restRunner">
+        <test-method status="PASS" signature="testRun1()[pri:0, instance:Rest.restRunner@ab0bfb]" name="testRun1" duration-ms="500" started-at="2020-06-07T12:34:20Z" finished-at="2020-06-07T12:34:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRun1 -->
+      </class> <!-- Rest.restRunner -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
